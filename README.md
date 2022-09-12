@@ -3,6 +3,7 @@ Para poder usar el bot son los siguientes comandos:
 /sonido + numero
 <br>
 Ejemplo: /sonido 100
+<br>
 puedes añadir numeros del 1 al 648
 <br>
 
