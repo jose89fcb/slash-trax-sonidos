@@ -1,3 +1,17 @@
+Para poder usar el bot son los siguientes comandos:
+<br>
+/sonido + numeros
+<br>
+Ejemplo: /sonidorandom
+<br>
+Ejemplo: /sonido 100
+<br>
+
+<br>
+<img src="https://i.imgur.com/hQwEFwn.png">
+<br>
+
+
 Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-370/
 
 #OBTEN UN TOKEN EN y un bot en: https://discord.com/developers/applications
