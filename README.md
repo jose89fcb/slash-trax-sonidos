@@ -2,9 +2,9 @@ Para poder usar el bot son los siguientes comandos:
 <br>
 /sonido + numeros
 <br>
-
-<br>
 Ejemplo: /sonido 100
+<br>
+
 <br>
 Otra forma de hacerlo es:
 <br>
