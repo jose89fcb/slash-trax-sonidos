@@ -13,6 +13,8 @@ Otra forma de hacerlo es:
 Ejemplo: /sonidorandom
 <br>
 Obtendremos un sonido random
+<br>
+Los sonidos sólo tu los podras ver
 
 
 <br>
