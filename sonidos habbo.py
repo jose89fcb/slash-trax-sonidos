@@ -92,6 +92,10 @@ async def on_ready():
     print(f"BOT listo! {bot.user}")
     
     
-    
+   ##########################
+   #Programado Por Jose89fcb#
+   #   Trax Habbo Hotel     #
+   #    2022©               #
+   #########################
     
 bot.run(config["tokendiscord"])
