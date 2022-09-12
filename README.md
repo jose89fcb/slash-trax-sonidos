@@ -1,6 +1,6 @@
 Para poder usar el bot son los siguientes comandos:
 <br>
-/sonido + numeros
+/sonido + numero
 <br>
 Ejemplo: /sonido 100
 <br>
