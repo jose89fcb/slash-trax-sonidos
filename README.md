@@ -2,10 +2,16 @@ Para poder usar el bot son los siguientes comandos:
 <br>
 /sonido + numeros
 <br>
-Ejemplo: /sonidorandom
+
 <br>
 Ejemplo: /sonido 100
 <br>
+Otra forma de hacerlo es:
+<br>
+Ejemplo: /sonidorandom
+<br>
+Obtendremos un sonido random
+
 
 <br>
 <img src="https://i.imgur.com/hQwEFwn.png">
