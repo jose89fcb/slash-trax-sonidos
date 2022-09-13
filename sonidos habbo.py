@@ -22,7 +22,7 @@ slash = SlashCommand(bot, sync_commands=True)
     name="sonido", description="Sonidos trax Habbo Hotel",
     options=[
                 create_option(
-                  name="sonido",
+                  name="numero",
                   description="Escribe un numero del 1 al 648",
                   option_type=3,
                   required=True
@@ -35,7 +35,7 @@ slash = SlashCommand(bot, sync_commands=True)
              ])
 
 
-async def _sonido(ctx:SlashContext, sonido:str):
+async def _sonido(ctx:SlashContext, numero:str):
     
    
     
@@ -50,9 +50,9 @@ async def _sonido(ctx:SlashContext, sonido:str):
 
     try:
 
-     await ctx.send(hidden=True,file=discord.File(f"trax/{sonido}.mp3"))
+     await ctx.send(hidden=True,file=discord.File(f"trax/{numero}.mp3"))
     except FileNotFoundError:
-        await ctx.send(f"el archivo {sonido}.mp3 no existe.") 
+        await ctx.send(f"el archivo {numero}.mp3 no existe.") 
 
 
 
@@ -92,10 +92,6 @@ async def on_ready():
     print(f"BOT listo! {bot.user}")
     
     
-   ##########################
-   #Programado Por Jose89fcb#
-   #   Trax Habbo Hotel     #
-   #    2022©               #
-   #########################
+    
     
 bot.run(config["tokendiscord"])
