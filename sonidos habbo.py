@@ -84,7 +84,11 @@ async def _sonidorandom(ctx:SlashContext):
     await ctx.send(hidden=True,file=discord.File(f"trax/{sonido}"))
   
 
-
+   ##########################
+   #Programado Por Jose89fcb#
+   #   Trax Habbo Hotel     #
+   #    2022©               #
+   ##########################
 
 
 @bot.event
